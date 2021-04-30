@@ -1,6 +1,4 @@
-Gloomhaven 3D
-
-I started Gloomhaven3D to track and curate the best 3D printable accessories for the wonderful game that is Gloomhaven.
+Gloomhaven3D tracks and curates the best 3D printable accessories for the wonderful game that is Gloomhaven.
 
 # Hardware
 ## 3D Printers
@@ -10,8 +8,15 @@ There are so many choices on the market it's easy to get confused. Go with somet
 ## Filament
 Having bought a ton of different brands, it turns out I'm a fan of hatchbox. It feels a little more solid, more consistent between spools, prints well, and doesn't seem to get as brittle over time as other filaments.
 
+## Software
+Prusa Slicer
+
+Fancy supports? Try Meshmixer.
+
+Need to design something yourself? TinkerCad or AutoDesk Fusion 360.
+
 # Gameplay Improvements
-By far the best thing you should print is this [Gloomhaven Player Dashboard Variant](https://www.thingiverse.com/thing:3625850); it holds the lost and discard piles at a slight angle, which saves space. There's a row along the back to hold your items, some condition icon holders, and the attack modifier deck. It's a great way to keep your game organized.
+By far the best thing you should print is this [Gloomhaven Player Dashboard Variant](https://www.thingiverse.com/thing:3625850); it holds the lost and discard piles at a slight angle, which saves space. There's a row along the back to hold your items, some condition icon holders, and the attack modifier deck. It's a great way to keep your game organized. As your characters reach higher levels and have more items (or if you play some item-centric classes) you'll probably want to use your slicer to cut the item holder off so you can print an extra item holder.
 
 Speaking of gameplay, you absolutely need to have [Gloomhaven Helper](http://en.esotericsoftware.com/gloomhaven-helper) installed on your mobile device; it took my group months before we discovered it but once we did we were able to move from playing one scenario per session to two - it's the single biggest improvement you can make to your Gloomhaven experience. Go buy it today.
 
