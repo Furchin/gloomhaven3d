@@ -41,3 +41,6 @@ Coming soon :)
 
 # Class-specific Prints
 There are some classes for which you can print things; for example, a miniature of a class summon.
+
+Tinkerer
+* [Tinkerer Pets](https://www.thingiverse.com/thing:3015420)
