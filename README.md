@@ -24,6 +24,7 @@ Speaking of gameplay, you absolutely need to have [Gloomhaven Helper](http://en.
 * [Gloomhaven Character Box](https://www.thingiverse.com/thing:2994130) to store the characters (spoiler warning: the download contains STL with class names)
 * [Gloomhaven Full Storage](https://www.thingiverse.com/thing:3658149) to store the monster standees, action cards, and stat cards, as well as the terrain hexes, all the round tokens (money, markers, etc). It seems there's a [remix to support sleeved monster cards](https://www.thingiverse.com/thing:4762529) which I'd definitely check out as I had to remove some of the monster action card walls to make my sleeved cards fit.
 * [Gloomhaven Insert (based on Monster All In One Containers)](https://www.thingiverse.com/thing:3483482) Just print the card holders and dividers. I never got the hex tile storage to print well and I'm using the hex storage from Gloomhaven Full Storage above.
+* [Yet Another Mini Storage Solution](https://www.thingiverse.com/thing:3073819) to organize the minis. It has rows that hold 25mm bases, about 6 minis per row. I spent months storing my minis in ziploc bags -- each time I put them away another hand or sword would break. Learn from my mistake - print this instead.
 
 # Monsters
 
