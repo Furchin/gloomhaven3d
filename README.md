@@ -15,6 +15,9 @@ Fancy supports? Try Meshmixer.
 
 Need to design something yourself? TinkerCad or AutoDesk Fusion 360.
 
+## Painting
+Many minis benefit from getting painted. I use a mix of spray paint (when I don't care too much, or if I'm painting 10 monsters) but I use Army Painter Warpaints when I do (mostly for class minis and bosses). I use [Dropper paint bottle holder, stackable](https://www.thingiverse.com/thing:3200860) to organize and store my paints. 
+
 # Gameplay Improvements
 By far the best thing you should print is this [Gloomhaven Player Dashboard Variant](https://www.thingiverse.com/thing:3625850); it holds the lost and discard piles at a slight angle, which saves space. There's a row along the back to hold your items, some condition icon holders, and the attack modifier deck. It's a great way to keep your game organized. As your characters reach higher levels and have more items (or if you play some item-centric classes) you'll probably want to use your slicer to cut the item holder off so you can print an extra item holder.
 
