@@ -42,6 +42,7 @@ Coming soon :)
 # Terrain
 ## Obstacles
 * 4 x [Gloomhaven Doric Column on Hex Tile](https://www.thingiverse.com/thing:4045165)
+* 4 x [Gloomhaven Bookcases remix](https://www.thingiverse.com/thing:2758101)
 
 # Class-specific Prints
 There are some classes for which you can print things; for example, a miniature of a class summon.
