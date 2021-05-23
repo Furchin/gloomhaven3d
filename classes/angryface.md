@@ -5,5 +5,5 @@
 * See [Circles Summons](/classes/circles.md) (spoilers!) for a link which contains a suitable jackal.
 
 ## Accessories
-* [Gloomhaven Angry Face | Enemy Marker](https://www.thingiverse.com/thing:4696202) - used to mark minis as doomed
+* [Gloomhaven Angry Face Enemy Marker](https://www.thingiverse.com/thing:4696202) - used to mark minis as doomed
 * [Angry Face Doom Marker](https://www.thingiverse.com/thing:4729112) - haven't printed this one myself
