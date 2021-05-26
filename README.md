@@ -37,7 +37,7 @@ Standard bases are 25mm diameter disks. You can make one yourself in any 3D prog
 Coming soon :)
 
 ## Bosses
-Coming soon :)
+* Scenario 51 [The Gloom](https://www.thingiverse.com/thing:3676830)
 
 # Terrain
 ## Obstacles
