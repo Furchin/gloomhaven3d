@@ -50,3 +50,6 @@ There are some classes for which you can print things; for example, a miniature 
 * [Tinkerer](/classes/tinkerer.md)
 * [Angry Face](/classes/angryface.md)
 * [Circles](/classes/circles.md)
+
+# Items
+* [Power Core](https://www.thingiverse.com/thing:3341494)
