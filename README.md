@@ -39,6 +39,7 @@ Coming soon :)
 ## Bosses
 * Scenario 47 [The Sightless Eye](https://www.thingiverse.com/thing:3731432)
 * Scenario 51 [The Gloom](https://www.thingiverse.com/thing:3676830)
+* Scenario 81 [The Colorless](https://www.myminifactory.com/object/3d-print-the-colorless-savvas-162427)
 
 
 # Terrain
