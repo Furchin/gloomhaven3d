@@ -35,7 +35,11 @@ Speaking of gameplay, you absolutely need to have [Gloomhaven Helper](http://en.
 Standard bases are 25mm diameter disks. You can make one yourself in any 3D program or in PrusaSlicer directly (it's a 25mm diameter cylinder about 2 mm high). If you need one, try the one included in [this Black Imp monster standee](https://www.thingiverse.com/thing:3016299) - it's got a nice bevelled top.
 
 ## Standard Monsters
-Coming soon :)
+* [Inox Shaman](https://www.thingiverse.com/thing:3168879)
+* [Ancient Artillery](https://www.thingiverse.com/thing:2942207)
+* [Bandit Guard](https://www.thingiverse.com/thing:3150612)
+* [Giant Viper](https://www.thingiverse.com/thing:3043522)
+
 
 ## Bosses
 * Scenario 47 [The Sightless Eye](https://www.thingiverse.com/thing:3731432)
