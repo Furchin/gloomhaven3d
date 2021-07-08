@@ -52,6 +52,7 @@ Standard bases are 25mm diameter disks. You can make one yourself in any 3D prog
 * 4 x [Gloomhaven Doric Column on Hex Tile](https://www.thingiverse.com/thing:4045165)
 * 4 x [Gloomhaven Bookcases remix](https://www.thingiverse.com/thing:2758101)
 * 6 x [Stalagmites](https://www.thingiverse.com/thing:2776232)
+* 6 x [Rock Column](https://www.thingiverse.com/thing:2769270)
 
 # Class-specific Prints
 There are some classes for which you can print things; for example, a miniature of a class summon.
