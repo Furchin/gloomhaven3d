@@ -39,12 +39,18 @@ Standard bases are 25mm diameter disks. You can make one yourself in any 3D prog
 * [Ancient Artillery](https://www.thingiverse.com/thing:2942207)
 * [Bandit Guard](https://www.thingiverse.com/thing:3150612)
 * [Giant Viper](https://www.thingiverse.com/thing:3043522)
+* 6 x [Frost Demon](https://www.thingiverse.com/thing:3432135) - tricky to get the supports!
+* 6 x [Flame Demon](https://www.thingiverse.com/thing:3080818)
+* 6 x [Sun Demon](https://www.thingiverse.com/thing:3107585)
+* 6 x [Earth Demon](https://www.thingiverse.com/thing:2881452)
 
 
 ## Bosses
 * Scenario 47 [The Sightless Eye](https://www.thingiverse.com/thing:3731432)
 * Scenario 51 [The Gloom](https://www.thingiverse.com/thing:3676830)
 * Scenario 81 [The Colorless](https://www.myminifactory.com/object/3d-print-the-colorless-savvas-162427)
+* [Winged Horror](https://www.thingiverse.com/thing:3805700)
+* [Prime Demon](https://www.thingiverse.com/thing:3922559)
 
 
 # Terrain
@@ -53,6 +59,7 @@ Standard bases are 25mm diameter disks. You can make one yourself in any 3D prog
 * 4 x [Gloomhaven Bookcases remix](https://www.thingiverse.com/thing:2758101)
 * 6 x [Stalagmites](https://www.thingiverse.com/thing:2776232)
 * 6 x [Rock Column](https://www.thingiverse.com/thing:2769270)
+* 2 x [Cabinet](https://www.thingiverse.com/thing:2759363)
 
 # Class-specific Prints
 There are some classes for which you can print things; for example, a miniature of a class summon.
