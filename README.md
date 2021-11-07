@@ -32,7 +32,7 @@ Speaking of gameplay, you absolutely need to have [Gloomhaven Helper](http://en.
 
 # Monsters
 
-Standard bases are 25mm diameter disks. You can make one yourself in any 3D program or in PrusaSlicer directly (it's a 25mm diameter cylinder about 2 mm high). If you need one, try the one included in [this Black Imp monster standee](https://www.thingiverse.com/thing:3016299) - it's got a nice bevelled top.
+Standard bases are 25mm diameter disks. You can make one yourself in any 3D program or in PrusaSlicer directly (it's a 25mm diameter cylinder about 2 mm high). If you need one, try the one included in [this Black Imp monster standee](https://www.thingiverse.com/thing:3016299) - it's got a nice bevelled top. If you want fancy ones, try [Figure Bases Set 2](https://www.thingiverse.com/thing:2802448) or [Figure Bases Set 1](https://www.thingiverse.com/thing:2797144). Print a bunch of [Numbered Miniature Base Markers](https://www.thingiverse.com/thing:2872339) in both white and yellow (elite) to give monster numbers to your standees. This is necessary in order to track per-monster health.
 
 ## Standard Monsters
 * [Inox Shaman](https://www.thingiverse.com/thing:3168879)
