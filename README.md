@@ -39,11 +39,13 @@ Standard bases are 25mm diameter disks. You can make one yourself in any 3D prog
 * [Inox Shaman](https://www.thingiverse.com/thing:3168879)
 * [Ancient Artillery](https://www.thingiverse.com/thing:2942207)
 * [Bandit Guard](https://www.thingiverse.com/thing:3150612)
-* [Giant Viper](https://www.thingiverse.com/thing:3043522)
+* 10 x [Giant Viper](https://www.thingiverse.com/thing:3043522)
 * 6 x [Frost Demon](https://www.thingiverse.com/thing:3432135) - tricky to get the supports!
 * 6 x [Flame Demon](https://www.thingiverse.com/thing:3080818)
 * 6 x [Sun Demon](https://www.thingiverse.com/thing:3107585)
 * 6 x [Earth Demon](https://www.thingiverse.com/thing:2881452)
+* 6 x [City Guard](https://www.thingiverse.com/thing:3060016)
+* 6 x [City Archer](https://www.thingiverse.com/thing:3058448)
 
 
 ## Bosses
